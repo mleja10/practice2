@@ -1,0 +1,11 @@
+tAbout This Article
+
+    Open a terminal window.
+    Go to the directory where you want to create the file.
+    Type vi nameoffile. txt and press ↵ Enter .
+    Type i to enter insert/editing mode.
+    Enter your text.
+    Press Esc to enter command mode.
+    Type :wq and press ↵ Enter .ype i to insert into vim
+type the file contents
+type escape key, type :wq to save and exit file
